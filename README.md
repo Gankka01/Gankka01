@@ -11,10 +11,10 @@ I'm a master's student in Artificial Intelligence at Kyung Hee University, worki
 My research interests include reinforcement and multi-agent learning, GPU resource scheduling, digital watermarking, and AI-generated text detection.
 
 <p>
-  🌐 &nbsp;<a href="https://wonik.page/">wonik.page</a><br>
-  📄 &nbsp;<a href="https://wonik.page/cv/">Curriculum Vitae</a><br>
-  🎓 &nbsp;<a href="https://scholar.google.com/citations?user=wVjmE7gAAAAJ">Google Scholar</a><br>
-  ✉️ &nbsp;<a href="mailto:ericegg0104@gmail.com">ericegg0104@gmail.com</a>
+  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png" width="16" height="16" alt="🌐"> &nbsp;<a href="https://wonik.page/">wonik.page</a><br>
+  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png" width="16" height="16" alt="📄"> &nbsp;<a href="https://wonik.page/cv/">Curriculum Vitae</a><br>
+  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png" width="16" height="16" alt="🎓"> &nbsp;<a href="https://scholar.google.com/citations?user=wVjmE7gAAAAJ">Google Scholar</a><br>
+  <img src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png" width="16" height="16" alt="✉️"> &nbsp;<a href="mailto:ericegg0104@gmail.com">ericegg0104@gmail.com</a>
 </p>
 
 ### Research
