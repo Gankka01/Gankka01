@@ -12,7 +12,7 @@ My research interests include reinforcement and multi-agent learning, GPU resour
 
 <p>
   🌐 &nbsp;<a href="https://wonik.page/">wonik.page</a><br>
-  📄 &nbsp;<a href="https://wonik.page/cv/">Vitae</a><br>
+  📄 &nbsp;<a href="https://wonik.page/cv/">Curriculum Vitae</a><br>
   🎓 &nbsp;<a href="https://scholar.google.com/citations?user=wVjmE7gAAAAJ">Google Scholar</a><br>
   ✉️ &nbsp;<a href="mailto:ericegg0104@gmail.com">ericegg0104@gmail.com</a>
 </p>
